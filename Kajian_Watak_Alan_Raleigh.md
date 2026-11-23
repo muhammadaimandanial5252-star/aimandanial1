@@ -214,11 +214,28 @@
 ---
 
 ## BAHAGIAN 10: REFLEKSI PELAKON
-*(Isi sendiri. Berikut panduan.)*
 
-1. **Persamaan:** Pernah guna telefon untuk lari dari situasi tak selesa? Pernah rasa orang lain berpura-pura baik?
-2. **Perbezaan:** Tahap empati; cara melayan keluarga; pandangan tentang moral dan keganasan.
-3. **Sukar difahami:** Tenang mempertahankan ubat berbahaya; menyebut anak sendiri "buas" dengan dingin.
-4. **Kajian tambahan:** Perhatikan cara peguam atau eksekutif bercakap di telefon; baca tentang skandal farmaseutikal dan strategi PR "nafi dan serang"; perhatikan postur lelaki 40-an kelas atasan.
-5. **Uji semasa latihan:** Beza suara telefon dan ruang tamu; tahap ketenangan sebelum ledakan; cara sebut "Woof-woof"; fizikal selepas telefon musnah; momen kelopak tulip.
-6. **Kesimpulan:** Alan dibina atas kawalan dan sinisme. Cabarannya ialah mengekalkan kuasa dan ketenangannya tanpa menjadikannya jahat semata-mata, dan menunjukkan kekosongan di sebaliknya bila perisainya dirampas.
+1. **Persamaan antara diri saya dengan watak ini:**
+   Seperti Alan, saya kadang-kadang menggunakan telefon untuk mengelak situasi yang tidak selesa. Saya juga lebih suka berfikir secara logik daripada meluahkan perasaan, dan cepat perasan bila orang lain hanya berpura-pura sopan.
+
+2. **Perbezaan paling ketara:**
+   Alan tidak berempati dan langsung tidak mahu mengaku salah. Saya pula percaya mengaku salah dan meminta maaf itu penting, terutama dalam keluarga. Saya juga tidak melihat keganasan sebagai "hukum alam" seperti Alan. Saya masih muda, sedangkan Alan lelaki 40-an yang berkuasa dan sudah biasa dengan dunia korporat.
+
+3. **Aspek kehidupan watak yang sukar saya fahami:**
+   Bagaimana seorang bapa boleh menyebut anaknya sendiri "buas" dengan begitu dingin. Saya juga sukar faham bagaimana dia boleh tenang mempertahankan ubat yang membahayakan orang ramai demi keuntungan syarikat.
+
+4. **Kajian atau pemerhatian tambahan:**
+   - Memerhati cara peguam, ahli korporat atau orang berjawatan tinggi bercakap di telefon: tempo, istilah dan nada arahan.
+   - Membaca tentang skandal syarikat farmaseutikal dan strategi "nafi dan serang" dalam perhubungan awam.
+   - Memerhati postur dan cara duduk lelaki berusia 40-an yang berkedudukan tinggi.
+   - Mengkaji teori Lajos Egri dengan lebih mendalam, terutama tentang pertumbuhan watak dan transisi.
+
+5. **Perkara yang mahu saya uji semasa latihan:**
+   - Perbezaan tenaga dan suara antara "Alan di telefon" dengan "Alan di ruang tamu".
+   - Sejauh mana Alan boleh kekal tenang sebelum meletup bila telefonnya dimusnahkan.
+   - Cara menyebut "Woof-woof": menyindir, bosan, dan sekali dengan nada mesra.
+   - Perubahan postur dan pernafasan selepas telefon musnah.
+   - Momen mengutip kelopak tulip pada akhir cerita: sama ada dimainkan dengan penyesalan atau secara kosong.
+
+6. **Kesimpulan kajian watak:**
+   Melalui kajian ini, saya dapati Alan Raleigh ialah watak yang dibina atas kawalan, kuasa dan sinisme. Mengikut teori Lajos Egri, fisiologi, sosiologi dan psikologinya saling berkait. Kerjaya sebagai peguam korporat dan didikan maskulin menjadikan dia lelaki yang tidak mampu mengaku salah atau menunjukkan emosi. Sepanjang cerita, Alan bergerak dari satu kutub ke kutub yang lain: daripada lelaki yang berkuasa dan terkawal kepada lelaki yang kosong dan tidak berdaya bila telefonnya dimusnahkan. Cabaran utama saya ialah mengekalkan ketenangan dan kuasa Alan tanpa menjadikannya penjahat semata-mata, dan menunjukkan kekosongan di sebaliknya secara jujur kepada penonton.
