@@ -8,6 +8,38 @@
 
 ---
 
+## KERANGKA TEORI: LAJOS EGRI (*The Art of Dramatic Writing*, 1946)
+
+Analisis ini menggunakan teori watak Lajos Egri. Konsep yang dipakai:
+
+| Konsep Egri | Maksud ringkas | Di mana dalam worksheet |
+|---|---|---|
+| **Struktur tulang tridimensi** (*bone structure*) | Setiap watak dibina daripada 3 dimensi: **Fisiologi**, **Sosiologi**, **Psikologi** | Fisiologi → Bhg. 7 · Sosiologi → Bhg. 1 & 2 · Psikologi → Bhg. 3 |
+| **Psikologi ialah hasil fisiologi + sosiologi** | Fikiran, emosi dan kompleks watak *disebabkan* oleh tubuh dan persekitarannya | Rantaian sebab-akibat dalam Bhg. 3 |
+| **Premis** (*premise*) | Satu ayat yang merangkum watak → konflik → kesudahan | Bhg. 5 & 9 |
+| **Watak tunjang & antagonis** (*pivotal character / antagonist*) | Watak tunjang memaksa konflik berlaku; antagonis menentangnya | Bhg. 4 |
+| **Kesatuan pertentangan** (*unity of opposites*) | Dua pihak bertentangan diikat oleh sesuatu yang tidak membolehkan mereka berundur | Bhg. 4 |
+| **Orkestrasi** (*orchestration*) | Watak-watak disusun supaya berbeza dan bertentangan antara satu sama lain | Bhg. 4 |
+| **Pertumbuhan dari kutub ke kutub** (*growth, pole to pole*) | Watak bergerak dari satu keadaan ke keadaan yang bertentangan melalui konflik | Bhg. 6 |
+| **Jenis konflik**: statik, melompat, meningkat, bayangan awal (*static, jumping, rising, foreshadowing*) | Egri mahukan konflik yang **meningkat** melalui **transisi** yang jelas | Bhg. 6 |
+| **Titik serangan** (*point of attack*) & **watak yang masak untuk konflik** (*ripe for conflict*) | Cerita bermula pada saat watak sudah sedia meletup | Bhg. 1 |
+
+> Nota: Worksheet ini menggunakan istilah Stanislavski (Given Circumstances, Super Objective). Analisis ini kekalkan susunan soalan worksheet, tetapi setiap jawapan dibaca melalui teori Egri. Kotak **"Lensa Egri"** di hujung setiap bahagian menunjukkan kaitannya.
+
+### STRUKTUR TULANG TRIDIMENSI ALAN RALEIGH (ringkasan)
+
+| FISIOLOGI | SOSIOLOGI | PSIKOLOGI |
+|---|---|---|
+| Lelaki, 40-an | Kelas atasan, peguam korporat | Sinis, dingin, rasional |
+| Terurus, berpakaian mahal [BINAAN] | Ketua kaunsel Verenz-Pharma | Obses dengan kerja/telefon |
+| Letih (Congo → The Hague), lapar | Bercerai sekali, berkahwin semula | Menekan emosi; marah bila hilang kawalan |
+| Fizikal "kosong" tanpa telefon | Dibesarkan dengan maskuliniti John Wayne | Premis peribadi: "yang kuat menang" |
+| Minum rum (separuh kedua) | Bapa yang tidak hadir | Sikap hidup: militan-sinis |
+
+**Rantaian Egri:** tubuh lelaki berkuasa yang terurus (fisiologi) + kerjaya yang dibayar untuk menafikan kesalahan, dan didikan maskulin (sosiologi) → lelaki yang tidak mampu mengaku salah, tidak menunjukkan emosi, dan percaya hanya pada kekuatan (psikologi).
+
+---
+
 ## BAHAGIAN 1: GIVEN CIRCUMSTANCES
 *Fakta dan keadaan asas kehidupan watak.*
 
@@ -64,6 +96,9 @@ Annette yang mengatur/memaksa dia hadir untuk berbincang secara "beradab" dengan
 - "Kalau kau keluarkan Antril daripada pasaran, kau jadi bertanggungjawab… kau dah mengaku liabiliti!" (hlm. 18)
 - "Kita tak akan turunkan ubat tu daripada pasaran hanya kerana dua atau tiga orang tengah berlanggar dengan perabot dekat rumah!" (hlm. 19)
 
+> **LENSA EGRI: Titik serangan & watak yang masak untuk konflik**
+> Egri kata drama mesti bermula pada saat watak sudah **masak untuk konflik**, iaitu bila tekanan sudah memuncak dan watak tidak boleh berundur. Alan masuk ke rumah Novak pada saat paling buruk untuknya: skandal Antril baru meletup pagi itu, AGM tinggal dua minggu, dan dia ke The Hague esok. Jadi dia sudah "masak" sebelum pintu dibuka. Itulah sebabnya kesabarannya nipis dari baris pertama ("Bersenjatakan?", hlm. 2).
+
 ---
 
 ## BAHAGIAN 2: SOSIOLOGI WATAK
@@ -99,6 +134,23 @@ Memandang rendah tetapi secara halus. Kepada Michael (penjual barang rumah): "Ad
 
 **9. Catatan tambahan/interpretasi pelakon:**
 Alan ialah satu-satunya watak yang **tidak berpura-pura percaya pada tamadun** dari awal. Yang lain jatuh ke "keganasan"; Alan memang sudah berada di situ sejak mula. Itulah sebabnya dia nampak paling "tenang" pada awal.
+
+> **LENSA EGRI: Dimensi Sosiologi (senarai semak Egri)**
+>
+> | Item Egri | Alan Raleigh |
+> |---|---|
+> | Kelas | Atasan / elit profesional |
+> | Pekerjaan (jenis, jam kerja, pendapatan, sikap terhadap organisasi) | Ketua kaunsel Verenz-Pharma; bekerja 24 jam melalui telefon; pendapatan sangat tinggi; **setia kepada syarikat, bukan kepada etika** |
+> | Pendidikan | Undang-undang [BINAAN: sekolah undang-undang elit]; terserlah dalam ketepatan bahasanya |
+> | Kehidupan rumah | Bercerai sekali, ada anak sulung (hlm. 15); kini berkahwin dengan Annette; urusan rumah dan anak diserahkan kepada isteri (hlm. 23) |
+> | Ibu bapa | [BINAAN] Bapa yang keras dan maskulin ("kejantanan jenis John Wayne", hlm. 38) |
+> | Agama | Tidak dinyatakan. Secara simbolik, "agamanya" ialah **God of Carnage** (hlm. 45) |
+> | Bangsa / kewarganegaraan | Amerika (ikut latar Cobble Hill); semak dengan pengarah |
+> | Kedudukan dalam masyarakat | Pemimpin; orang yang dihubungi bila ada krisis |
+> | Fahaman politik | [BINAAN] Realis/konservatif; memandang rendah liberal idealis ("Jane Fonda", hlm. 55) |
+> | Hobi / hiburan | Rum vintaj, cerut Cuba (hlm. 38, 43) |
+>
+> **Kesimpulan Egri:** Persekitaran sosial Alan memberi ganjaran kepada sikap **jangan mengaku salah**, sama ada di mahkamah, dalam syarikat, atau dalam keluarga. Sosiologi inilah yang membentuk psikologinya (Bahagian 3).
 
 ---
 
@@ -138,6 +190,27 @@ Bosan/tidak sabar → terganggu dan defensif (isu "sengaja") → geli hati melih
 
 **11. Catatan tambahan:**
 Alan mungkin satu-satunya watak yang **mendapat "kebenaran" yang dia cari** – teori God of Carnage terbukti di depan matanya. Ironinya, kemenangan itu tidak membawa kepuasan; dia tetap berakhir kosong.
+
+> **LENSA EGRI: Dimensi Psikologi (senarai semak Egri)**
+>
+> | Item Egri | Alan Raleigh |
+> |---|---|
+> | Kehidupan seks & standard moral | Relativis moral ("kadang-kadang lagi bagus kalau tak kawal", hlm. 47). Lihat perempuan dari sudut naluri: "keghairahan, keliaran, hormon" (hlm. 55) |
+> | Premis peribadi / cita-cita | Kekal di puncak; menang setiap pertarungan; lindungi klien |
+> | Kekecewaan / kegagalan utama | Perkahwinan pertama [BINAAN]; perkahwinan sekarang yang retak; anak yang "buas" |
+> | Temperamen | Kebanyakan masa dingin dan tenang; **meletup** bila kawalannya dirampas (hlm. 48) |
+> | Sikap terhadap hidup (Egri: pasrah / militan / kalah) | **Militan-sinis**: hidup ialah perang, dan dia mahu berada di pihak yang menang |
+> | Kompleks: obsesi, inhibisi, fobia | **Obsesi:** kerja/telefon. **Inhibisi:** tidak mampu meluahkan emosi atau mengaku salah. Ada prasangka terhadap perempuan ("Perempuan terlalu banyak berfikir", hlm. 41) |
+> | Ekstrovert / introvert / ambivert | **Ambivert**: dominan dalam perbualan dan di telefon, tetapi tertutup tentang emosi |
+> | Kebolehan | Retorik, hujah undang-undang, pengurusan krisis, pengetahuan dunia (Congo, ICC) |
+> | Kualiti: imaginasi, pertimbangan, citarasa, ketenangan | Pertimbangan tajam; citarasa mahal; **ketenangan (*poise*) sangat tinggi sehingga telefonnya musnah** |
+> | IQ | Tinggi; cepat menangkap kelemahan hujah orang lain |
+>
+> **Sebab-akibat Egri (fisiologi + sosiologi → psikologi):**
+> - Badan yang letih dan lapar (fisiologi) → kurang sabar, tidak sanggup duduk lama.
+> - Kerjaya yang dibayar untuk menafikan kesalahan (sosiologi) → **tidak mampu mengaku salah** tentang Benjamin.
+> - Didikan maskulin "John Wayne" (sosiologi) → menekan emosi, memandang rendah "perempuan menangis" (hlm. 43).
+> - Pengalaman di Congo (sosiologi) → falsafah **God of Carnage**.
 
 ---
 
@@ -185,6 +258,27 @@ Bahawa dia **realistik, bukan jahat** – dunia memang ganas, dan dia cuma beran
 
 **10. Catatan tambahan:**
 Perhatikan bahawa pakatan dalam bilik ini sentiasa berubah: pasangan vs pasangan → lelaki vs perempuan → setiap orang vs semua. Alan sering menjadi orang yang **mencetuskan pertukaran pakatan** itu (contoh: hlm. 34 "Aku belakang kau seratus peratus").
+
+> **LENSA EGRI: Watak tunjang, antagonis, kesatuan pertentangan & orkestrasi**
+>
+> **Watak tunjang dan antagonis.** Mengikut Egri, watak tunjang ialah watak yang *mendesak* konflik. Dalam drama ini, watak tunjang ialah **Veronica**: dia mahukan pengakuan moral dan tidak akan berhenti sehingga mendapatnya. **Alan ialah antagonis utamanya**, iaitu kuasa yang menolak pengakuan itu.
+>
+> **Kesatuan pertentangan.** Egri kata konflik hanya hidup jika kedua-dua pihak **tidak boleh berundur**. Alan cuba keluar berkali-kali (hlm. 12, 30, 31), tetapi dia terikat oleh:
+> 1. Kecederaan Henry. Benjamin bersalah, jadi isu ini mesti diselesaikan.
+> 2. Annette, yang memaksa dia hadir ("isteri [aku] terpaksa tarik aku datang sini", hlm. 38).
+> 3. Egonya sendiri. Dia tidak boleh membiarkan Veronica menang hujah.
+>
+> Ikatan inilah yang membuatkan pertentangan Alan dengan Veronica terus meningkat.
+>
+> **Orkestrasi (susunan watak yang bertentangan):**
+>
+> | | Alan | Veronica | Michael | Annette |
+> |---|---|---|---|---|
+> | Pandangan dunia | Kuasa & keganasan | Moral & tamadun | Kasar, "Neanderthal" | Berpura-pura sopan |
+> | Senjata | Logik & sindiran | Khutbah moral | Kekasaran terus terang | Sopan → meletup |
+> | Lawan semula jadi | Veronica | Alan | Veronica (isteri sendiri) | Alan (suami sendiri) |
+>
+> Alan dan Veronica berada di **dua kutub yang paling jauh**. Michael dan Annette pula bergerak di antara mereka. Itulah sebabnya pakatan sentiasa berubah.
 
 ---
 
@@ -237,6 +331,17 @@ Ia BERLAKU dalam skrip – telefon musnah, dia "tumbang tertewas" dan duduk "mac
 **11. Tindakan/Taktik (gunakan kata kerja aktif):**
 menyindir, membetulkan, memperkecilkan, mengelak, menyogok (tawar bayar), memprovokasi, menyekutui (Michael), mengajar/berceramah (God of Carnage), menenangkan secara merendahkan (Annette), mengabaikan, mengejek, memujuk (ibu Michael – hlm. 52, di mana dia bercakap manis tentang Antril).
 
+> **LENSA EGRI: Premis watak**
+> Bagi Egri, setiap watak bergerak berdasarkan satu **premis**: watak + konflik → kesudahan. Premis Alan:
+>
+> **"Kepercayaan bahawa kekuatan mengatasi moral membawa kepada kekosongan diri."**
+>
+> - **Watak:** lelaki yang percaya hanya pada kuasa dan menafikan tanggungjawab.
+> - **Konflik:** dipaksa berdepan dengan tuntutan moral (Veronica) dan isteri yang semakin hilang sabar (Annette).
+> - **Kesudahan:** teorinya terbukti, tetapi sumber kuasanya (telefon) dirampas dan dia tinggal kosong.
+>
+> Super Objective dalam soalan 9 ialah bahasa Stanislavski untuk **"premis peribadi/cita-cita"** dalam senarai psikologi Egri.
+
 ---
 
 ## BAHAGIAN 6: KONFLIK DAN PERUBAHAN WATAK
@@ -263,6 +368,30 @@ Lebih kepada **mendedahkan**. Pandangan dunia Alan tidak berubah – malah terbu
 - **PERMULAAN:** Bosan, tergesa-gesa, terganggu dengan krisis kerja, sopan secara minimum, sinis.
 - **PERTENGAHAN:** Defensif bila dicabar, kemudian terhibur dan "hidup" bila huru-hara bermula; bersekutu dengan Michael; minum, berhujah dengan yakin (God of Carnage).
 - **PENGAKHIRAN:** Marah meletup (telefon) → hancur dan kalah → letih, diam, "tumbang"; sisa sinis masih ada (Jane Fonda, "babi tersangkut") tetapi lebih kepada refleks. Gambar akhir: mengutip kelopak tulip.
+
+> **LENSA EGRI: Pertumbuhan, jenis konflik & transisi**
+>
+> **Pertumbuhan dari kutub ke kutub.** Egri kata watak yang hidup mesti bergerak dari satu kutub ke kutub yang bertentangan.
+> - **Kutub A (awal):** berkuasa, terkawal, tidak tersentuh, sentiasa "di luar" bilik (telefon).
+> - **Kutub B (akhir):** tidak berdaya, kosong, terperangkap di dalam bilik, tanpa telefon.
+>
+> Pertumbuhan Alan ialah **kehilangan kuasa**, bukan perubahan moral. Ini sejajar dengan soalan 6: Alan lebih **didedahkan** daripada berubah. Pertumbuhan menurut Egri tetap berlaku kerana *keadaan dalaman*nya bertukar dari kutub ke kutub.
+>
+> **Jenis konflik Alan:**
+>
+> | Jenis (Egri) | Contoh dalam skrip |
+> |---|---|
+> | **Statik** (watak mengelak, tiada pergerakan) | Unit awal: Alan menjawab telefon, tidak mahu terlibat, "Baguslah kalau diorang bercakap" (hlm. 6) |
+> | **Bayangan awal** (*foreshadowing*) | Setiap kali telefon berbunyi, Annette semakin geram ("Cukup dengan telefon tu!", hlm. 22; "daging cincang", hlm. 43). Ini membayangkan telefon akan dimusnahkan |
+> | **Meningkat** (*rising*) | "Bersenjatakan" → "sengaja" → "kaki mengadu" → God of Carnage → telefon dalam pasu |
+> | **Melompat** (*jumping*, dielakkan Egri) | Ledakan "Kau dah gila ke? Sial!!!" (hlm. 48) **nampak** seperti lompatan, tetapi sebenarnya dibina oleh bayangan awal tadi. Pelakon mesti main transisinya supaya ia tidak melompat |
+>
+> **Transisi utama Alan** (Egri: setiap perubahan emosi perlu jambatan):
+> 1. Bosan → defensif: perkataan "dengan sengaja" (hlm. 17)
+> 2. Defensif → terhibur: Veronica memukul Michael, "aku dah mula sukakan kau!" (hlm. 46)
+> 3. Terhibur → meletup: telefon dalam pasu (hlm. 48)
+> 4. Meletup → kosong: "Lupakan! Dia dah jahanam" → "tumbang tertewas" (hlm. 49)
+> 5. Kosong → diam: mengutip kelopak tulip (hlm. 56)
 
 ---
 
@@ -300,6 +429,21 @@ Lapar ("Aku sebenarnya belum makan sangat tengah hari tadi", hlm. 9) – sebab d
 - **Physical Characteristic:** Lelaki 40-an, berpakaian kemas (sut/blazer mahal, mungkin skarf – "Bukan ke aku ada scarf?", hlm. 32), terurus, berkeyakinan.
 - **Vocal Characteristic:** Nada rendah, tenang, kering; sebutan jelas & tepat; tempo laju di telefon, perlahan dalam perbualan; penuh jeda yang menyindir.
 - **Physical Habits:** Sentiasa memegang/menyemak telefon; berdiri dan bergerak ke tepi bila telefon bergetar; makan sambil bercakap; senyum sinis; mengisi semula gelas rum sendiri (hlm. 43).
+
+> **LENSA EGRI: Dimensi Fisiologi (senarai semak Egri)**
+>
+> | Item Egri | Alan Raleigh |
+> |---|---|
+> | Jantina | Lelaki |
+> | Umur | 40-an (senarai watak) |
+> | Tinggi & berat | [BINAAN] Ikut tubuh pelakon. Cadangan: badan terjaga, tidak gemuk (lelaki yang menjaga imej korporat) |
+> | Warna rambut, mata, kulit | [BINAAN] Ikut pelakon dan rekaan solekan; mungkin uban sedikit di tepi (umur dan tekanan) |
+> | Postur | Tegak, santai dan berkuasa. Selepas telefon musnah: terduduk (hlm. 51) |
+> | Penampilan | Kemas, mahal, terurus; skarf (hlm. 32) |
+> | Kecacatan / penyakit | Tiada dalam skrip. Keadaan sementara: **letih** (Congo → The Hague) dan **lapar** (hlm. 9) |
+> | Keturunan (*heredity*) | [BINAAN] Mewarisi sikap fizikal bapa yang "John Wayne": tubuh yang tidak menunjukkan emosi |
+>
+> **Kesan fisiologi kepada psikologi (Egri):** Rasa lapar dan letih menjadikan dia kurang sabar. Penampilan yang sempurna menjadi sebahagian daripada "perisai"nya. Bila perisai itu runtuh, tubuhnya runtuh sekali.
 
 ---
 
@@ -372,6 +516,13 @@ Betapa rapuhnya dia tanpa telefon; dan sisi lucu/menikmati huru-hara (bila dia m
 
 **7. Interpretasi keseluruhan:**
 Alan Raleigh ialah lelaki yang sudah lama menerima bahawa dunia dikuasai "God of Carnage". Dia berlindung di sebalik kerja, bahasa undang-undang dan sinisme. Sepanjang petang itu, semua orang lain jatuh ke dalam keganasan yang dia ramalkan – tetapi bila perisainya (telefon) dimusnahkan, dia sendiri tertanggal, kosong dan tidak berdaya. Kemenangan teorinya ialah kekalahan peribadinya.
+
+> **LENSA EGRI: Interpretasi keseluruhan**
+> - **Struktur tulang:** lelaki 40-an yang terurus (fisiologi) + peguam korporat elit, bercerai, didikan maskulin (sosiologi) → sinis, menekan emosi, obses dengan kuasa (psikologi).
+> - **Premis:** kepercayaan bahawa kekuatan mengatasi moral membawa kepada kekosongan diri.
+> - **Fungsi dalam orkestrasi:** antagonis utama kepada Veronica, iaitu kutub realisme lawan kutub idealisme.
+> - **Pertumbuhan:** dari berkuasa dan terkawal kepada kosong dan tidak berdaya.
+> - **Prinsip Egri untuk pelakon:** setiap tindakan Alan mesti boleh dijejaki kembali kepada tiga dimensinya. Jika dia menyindir, tanya: adakah ini datang dari kerjayanya, didikannya, atau keletihannya?
 
 ---
 
