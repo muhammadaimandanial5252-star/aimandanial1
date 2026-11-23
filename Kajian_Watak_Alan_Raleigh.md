@@ -1,20 +1,6 @@
 # KAJIAN WATAK: ALAN RALEIGH
 **Teks:** *God of Carnage* – Yasmina Reza (terjemahan Melayu Abdul Ghani R)
 
-**Kunci utama analisis ini: Benjamin = Antril.**
-Sepanjang petang itu, Alan mempertahankan dua "produk berbahaya" dengan cara yang sama:
-
-| | Benjamin (anak) | Antril (ubat) |
-|---|---|---|
-| Kerosakan | Dua gigi Henry patah | Pesakit hilang pendengaran, ataxia |
-| Pihak menuduh | Veronica | Media, *Lancet*, mangsa |
-| Strategi Alan | Tolak perkataan "bersenjatakan" dan "sengaja" | "Satu penafian menyeluruh", serang akhbar |
-| Prinsip | Mengaku salah = kalah | "Kau keluarkan Antril daripada pasaran, kau dah mengaku liabiliti" |
-| Tawaran | Bayar doktor gigi terbaik | Insurans, kenyataan akhbar |
-| Pandangan sebenar | "Dia orang yang buas" | "Beribu orang ambik benda tu" |
-
-Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depan umum. Ruang tamu Novak hanyalah mahkamah kecil; telefonnya ialah mahkamah besar. Pelakon mesti nampak bahawa **Alan menggunakan kaedah yang sama di kedua-dua tempat**.
-
 ---
 
 ## BAHAGIAN 1: GIVEN CIRCUMSTANCES
@@ -77,6 +63,29 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 11. **Catatan tambahan / bukti daripada skrip:**
     - "Yang nampaknya budak-budak ni masih belum kuasai. Setidaknya, bukan anak-anak kita." Ini sindiran pertama, kerana anaknya sendiri yang ganas.
     - "Kita tak akan turunkan ubat tu daripada pasaran hanya kerana dua atau tiga orang tengah berlanggar dengan perabot dekat rumah!"
+    - **Alan mempertahankan Benjamin sama seperti dia mempertahankan Antril:**
+
+| | Benjamin (anak) | Antril (ubat) |
+|---|---|---|
+| Kerosakan | Dua gigi Henry patah | Pesakit hilang pendengaran, ataxia |
+| Pihak menuduh | Veronica | Media, *Lancet*, mangsa |
+| Strategi Alan | Tolak perkataan "bersenjatakan" dan "sengaja" | "Satu penafian menyeluruh", serang akhbar |
+| Prinsip | Mengaku salah = kalah | "Kau keluarkan Antril daripada pasaran, kau dah mengaku liabiliti" |
+| Tawaran | Bayar doktor gigi terbaik | Insurans, kenyataan akhbar |
+| Pandangan sebenar | "Dia orang yang buas" | "Beribu orang ambik benda tu" |
+
+Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depan umum. Ruang tamu Novak hanyalah mahkamah kecil; telefonnya ialah mahkamah besar. Pelakon mesti nampak bahawa **Alan menggunakan kaedah yang sama di kedua-dua tempat**.
+
+**Perkembangan krisis Antril melalui telefon** (berjalan serentak dengan konflik di ruang tamu):
+1. Baca artikel; "AGM kita lagi dua minggu."
+2. "Jangan minta hak memberi balas", "satu penafian menyeluruh".
+3. "Jangan keluarkan dia daripada pasaran… kau dah mengaku liabiliti!"
+4. "Kalau ada siapa buat sial… Maurice akan mati dalam dua minggu, dan kita sekali dengan dia."
+5. "Diorang akan fax kau draf kenyataan akhbar."
+6. "Ini hanyalah cubaan yang menyedihkan untuk memanipulasi harga saham" (kenyataan rasmi).
+7. "Ingatkan dia, pemegang saham adalah raja", kemudian telefon dimusnahkan.
+
+Krisis ini **meningkat selari** dengan konflik di ruang tamu. Bila kedua-duanya memuncak serentak, Annette meletup.
 
 ---
 
@@ -182,6 +191,23 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 | Superior, tenang | Letih, lapar, tertekan |
 | Berkuasa | Kuasanya bergantung pada satu objek kecil |
 | Tidak perlukan sesiapa | Bila telefon musnah, dia hilang arah sepenuhnya |
+
+**Kata-kata Alan berbanding maksud sebenarnya:**
+
+| Dialog | Maksud sebenar (subteks) |
+|---|---|
+| "Bersenjatakan?" | "Perkataan ini akan menjadikan anak aku penjenayah. Aku tak terima." |
+| "Baguslah kalau diorang bercakap." | "Aku tak peduli. Cepat habiskan." |
+| "Ada duit ke, dalam tu?" | "Kau tak setaraf dengan aku." |
+| "Dia orang yang buas." | "Aku tak akan berpura-pura. Dan aku tak mahu dipersalahkan sebagai bapa." |
+| "Semoga berjaya." | "Kau tak akan berjaya mendidik anak aku." |
+| "Aku tak sikit pun terdesak." | "Aku sangat terdesak, tapi kau tak akan nampak." |
+| "Aku belakang kau seratus peratus." | "Akhirnya ada lelaki dalam bilik ni." |
+| "Aku percaya pada God of Carnage." | "Aku betul. Kau semua naif." |
+| "Kau tahu apa, aku dah mula sukakan kau!" | "Akhirnya kau tunjukkan diri sebenar kau." |
+| "Semuanya dalam tu, seluruh hidup aku…" | "Tanpa ini, aku bukan sesiapa." |
+| "Kita balik." | "Aku tak mampu pertahankan kau, dan aku tak mahu cuba." |
+| "Dia menjerit macam babi yang tersangkut." | "Aku tak ada apa-apa lagi kecuali sindiran." |
 
 10. **Apakah perubahan emosi yang berlaku kepada watak saya sepanjang cerita?**
     Bosan dan tidak sabar → terganggu dan defensif (isu "sengaja") → menyindir dan merendahkan (Michael, tandas) → jengkel dengan Annette (muntah) → mula terhibur dengan huru-hara (rum, "aku dah mula sukakan kau!") → yakin dan berkuasa (God of Carnage, Congo) → meletup (telefon dalam pasu) → hancur dan kosong → letih, sinisme refleks (Jane Fonda, "babi tersangkut") → diam (mengutip kelopak tulip).
@@ -357,23 +383,12 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
    - **PERTENGAHAN:** Defensif bila dicabar ("sengaja", "kaki mengadu"). Kemudian terhibur dan "hidup" bila huru-hara bermula: minum rum, ketawa, bersekutu dengan Michael, berhujah dengan yakin.
    - **PENGAKHIRAN:** Meletup bila telefon dimusnahkan, kemudian hancur dan kalah. Sinismenya masih keluar sebagai refleks (Jane Fonda, "babi yang tersangkut"), tetapi tanpa tenaga. Gambaran akhir: senyap, mengutip kelopak tulip.
 
-**Catatan tambahan:**
-- **Titik perubahan emosi utama:**
-  1. Bosan → defensif: perkataan "sengaja".
-  2. Defensif → terhibur: Veronica memukul Michael ("aku dah mula sukakan kau!").
-  3. Terhibur → meletup: telefon dalam pasu.
-  4. Meletup → kosong: "Lupakan! Dia dah jahanam."
-  5. Kosong → diam: mengutip kelopak tulip.
-- **Perkembangan krisis Antril melalui telefon** (cerita kedua yang berjalan serentak):
-  1. Baca artikel; "AGM kita lagi dua minggu."
-  2. "Jangan minta hak memberi balas", "satu penafian menyeluruh".
-  3. "Jangan keluarkan dia daripada pasaran… kau dah mengaku liabiliti!"
-  4. "Kalau ada siapa buat sial… Maurice akan mati dalam dua minggu, dan kita sekali dengan dia."
-  5. "Diorang akan fax kau draf kenyataan akhbar."
-  6. "Ini hanyalah cubaan yang menyedihkan untuk memanipulasi harga saham" (kenyataan rasmi).
-  7. "Ingatkan dia, pemegang saham adalah raja", kemudian telefon dimusnahkan.
-
-  Krisis ini **meningkat selari** dengan konflik di ruang tamu. Bila kedua-duanya memuncak serentak, Annette meletup.
+   **Titik perubahan emosi:**
+   1. Bosan → defensif: perkataan "sengaja".
+   2. Defensif → terhibur: Veronica memukul Michael ("aku dah mula sukakan kau!").
+   3. Terhibur → meletup: telefon dalam pasu.
+   4. Meletup → kosong: "Lupakan! Dia dah jahanam."
+   5. Kosong → diam: mengutip kelopak tulip.
 
 ---
 
@@ -416,14 +431,13 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
    - **Letih:** baru balik dari Congo, esok ke The Hague.
    - **Alkohol:** rum pada separuh kedua melonggarkan lidahnya (ucapan God of Carnage, Jane Fonda).
    - **Dimuntahkan oleh Annette:** sebahagian muntah terkena Alan, jadi dia perlu membersihkan diri. Ini memalukan dan menjijikkan bagi lelaki yang sentiasa terurus.
+   - **Penampilan sebagai perisai:** Penampilan yang sempurna menjadi sebahagian daripada perisai Alan. Bila perisai itu runtuh (muntah, telefon musnah), tubuhnya runtuh sekali. Keadaan fizikal dan emosinya bergerak serentak.
 
 **Physical Characteristic:** Lelaki 40-an, badan terjaga, kemas, sut mahal dan skarf, berkeyakinan. Tinggi, rambut dan kulit ikut pelakon. Cadangan: sedikit uban di tepi, tanda umur dan tekanan.
 
 **Vocal Characteristic:** Nada rendah dan kering, sebutan tepat seperti peguam. Laju dan tegas di telefon; perlahan, ironik dan penuh jeda dalam perbualan. Jarang menjerit; kuasanya pada ketenangan.
 
 **Physical Habits:** Memegang dan menyemak telefon; bergerak ke tepi bila telefon berbunyi; mengangkat jari; makan sambil bercakap; senyum sinis; mengisi semula gelas rum sendiri.
-
-**Catatan tambahan:** Penampilan yang sempurna menjadi sebahagian daripada perisai Alan. Bila perisai itu runtuh (muntah, telefon musnah), tubuhnya runtuh sekali. Keadaan fizikal dan emosinya bergerak serentak.
 
 ---
 
@@ -510,23 +524,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 
 7. **Interpretasi keseluruhan watak saya:**
    Alan Raleigh ialah lelaki yang sudah lama menerima bahawa dunia dikuasai "God of Carnage". Dia berlindung di sebalik kerja, bahasa undang-undang dan sinisme. Dia mempertahankan anaknya dengan cara yang sama dia mempertahankan ubat yang berbahaya: tolak perkataan yang menuduh, tawar bayaran, jangan mengaku. Sepanjang petang itu, semua orang lain jatuh ke dalam keganasan yang dia ramalkan. Tetapi bila perisainya (telefon) dirampas, dia sendiri tertanggal, kosong dan tidak berdaya. Kemenangan teorinya ialah kekalahan peribadinya.
-
-**Analisis subteks dialog penting:**
-
-| Dialog | Maksud sebenar (subteks) |
-|---|---|
-| "Bersenjatakan?" | "Perkataan ini akan menjadikan anak aku penjenayah. Aku tak terima." |
-| "Baguslah kalau diorang bercakap." | "Aku tak peduli. Cepat habiskan." |
-| "Ada duit ke, dalam tu?" | "Kau tak setaraf dengan aku." |
-| "Dia orang yang buas." | "Aku tak akan berpura-pura. Dan aku tak mahu dipersalahkan sebagai bapa." |
-| "Semoga berjaya." | "Kau tak akan berjaya mendidik anak aku." |
-| "Aku tak sikit pun terdesak." | "Aku sangat terdesak, tapi kau tak akan nampak." |
-| "Aku belakang kau seratus peratus." | "Akhirnya ada lelaki dalam bilik ni." |
-| "Aku percaya pada God of Carnage." | "Aku betul. Kau semua naif." |
-| "Kau tahu apa, aku dah mula sukakan kau!" | "Akhirnya kau tunjukkan diri sebenar kau." |
-| "Semuanya dalam tu, seluruh hidup aku…" | "Tanpa ini, aku bukan sesiapa." |
-| "Kita balik." | "Aku tak mampu pertahankan kau, dan aku tak mahu cuba." |
-| "Dia menjerit macam babi yang tersangkut." | "Aku tak ada apa-apa lagi kecuali sindiran." |
 
 ---
 
