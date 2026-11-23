@@ -1,17 +1,5 @@
 # KAJIAN WATAK: ALAN RALEIGH
 **Teks:** *God of Carnage* – Yasmina Reza (terjemahan Melayu Abdul Ghani R)
-**Teori:** Lajos Egri – *The Art of Dramatic Writing*
-
-**Struktur Tulang Tridimensi (Egri):**
-
-| FISIOLOGI | SOSIOLOGI | PSIKOLOGI |
-|---|---|---|
-| Lelaki 40-an, terurus, berpakaian mahal | Kelas atasan, ketua kaunsel Verenz-Pharma | Sinis, dingin, rasional |
-| Letih (Congo → The Hague), lapar | Bercerai sekali, berkahwin semula | Obses dengan kerja/telefon |
-| Postur berkuasa; runtuh tanpa telefon | Didikan maskulin "John Wayne" | Tidak mampu mengaku salah; menekan emosi |
-| Tubuh yang tidak menunjukkan emosi | Dunia kerja yang memberi ganjaran kepada penafian | Premis peribadi: "yang kuat menang" |
-
-**Rantaian Egri:** Tubuh yang terurus, kerjaya yang dibayar untuk menafikan kesalahan, dan didikan maskulin melahirkan lelaki yang tidak mengaku salah, tidak menunjukkan emosi, dan hanya percaya pada kekuatan.
 
 **Kunci utama analisis ini: Benjamin = Antril.**
 Sepanjang petang itu, Alan mempertahankan dua "produk berbahaya" dengan cara yang sama:
@@ -89,7 +77,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 11. **Catatan tambahan / bukti daripada skrip:**
     - "Yang nampaknya budak-budak ni masih belum kuasai. Setidaknya, bukan anak-anak kita." Ini sindiran pertama, kerana anaknya sendiri yang ganas.
     - "Kita tak akan turunkan ubat tu daripada pasaran hanya kerana dua atau tiga orang tengah berlanggar dengan perabot dekat rumah!"
-    - **Egri, watak masak untuk konflik:** Alan masuk pada saat paling buruk untuknya. Tekanan kerja sudah memuncak, jadi kesabarannya nipis dari baris pertama. Egri kata drama yang baik bermula bila watak *tidak boleh lagi berundur*. Alan cuba berundur (mahu keluar berkali-kali), tetapi keadaan memaksanya terus tinggal.
 
 ---
 
@@ -138,11 +125,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
    - **Dipatuhi:** norma maskulin tradisional (lelaki tidak menangis, tidak merengek); norma korporat (lindungi klien dan pemegang saham); hierarki kuasa.
 
 9. **Catatan tambahan / interpretasi pelakon:**
-   - **Senarai sosiologi Egri:**
-     - **Agama:** tidak dinyatakan. "Agamanya" ialah God of Carnage.
-     - **Politik:** realis, memandang rendah liberal idealis.
-     - **Hobi:** rum vintaj dan cerut Cuba.
-     - **Sikap terhadap organisasi:** setia kepada syarikat, bukan kepada etika.
    - **Pemerhatian utama:** Alan satu-satunya watak yang **tidak berpura-pura percaya pada tamadun** dari awal. Yang lain jatuh ke dalam keganasan sepanjang cerita, tetapi Alan memang sudah berada di situ. Itulah sebabnya dia nampak paling "tenang" pada awal: dia tidak ada apa-apa topeng yang perlu dijaga.
    - **Pandangan tentang perempuan** (penting untuk dilakonkan dengan jujur, bukan karikatur): "Perempuan selalu fikir semua orang perlukan lelaki", "Perempuan terlalu banyak berfikir", "apa yang kitorang suka adalah keghairahan, keliaran, hormon." Ini bukan kebencian yang terbuka. Ia **kepercayaan yang sudah lama tertanam** dan diucapkan sebagai "fakta".
 
@@ -205,22 +187,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
     Bosan dan tidak sabar → terganggu dan defensif (isu "sengaja") → menyindir dan merendahkan (Michael, tandas) → jengkel dengan Annette (muntah) → mula terhibur dengan huru-hara (rum, "aku dah mula sukakan kau!") → yakin dan berkuasa (God of Carnage, Congo) → meletup (telefon dalam pasu) → hancur dan kosong → letih, sinisme refleks (Jane Fonda, "babi tersangkut") → diam (mengutip kelopak tulip).
 
 11. **Catatan tambahan / interpretasi pelakon:**
-    - **Senarai psikologi Egri:**
-      - **Moral:** relativis; dia melihat perempuan dari sudut naluri.
-      - **Cita-cita:** kekal di puncak.
-      - **Kekecewaan:** perkahwinan pertama, anak yang ganas.
-      - **Temperamen:** dingin, tetapi meletup bila kawalannya dirampas.
-      - **Sikap hidup:** militan-sinis.
-      - **Kompleks:** obsesi kerja; inhibisi emosi.
-      - **Jenis:** ambivert, iaitu dominan dalam perbualan tetapi tertutup tentang emosi.
-      - **Kebolehan:** retorik, hujah, pengurusan krisis, memujuk.
-      - **Ketenangan (*poise*):** tinggi sehingga telefon musnah.
-      - **IQ:** tinggi.
-    - **Sebab-akibat Egri:**
-      - Badan letih dan lapar → kurang sabar.
-      - Kerjaya menafikan kesalahan → tidak mampu mengaku salah tentang Benjamin.
-      - Didikan "John Wayne" → menekan emosi, memandang rendah "perempuan menangis".
-      - Congo → falsafah God of Carnage.
     - **Ironi besar:** Alan mungkin satu-satunya watak yang mendapat "kebenaran" yang dia cari. Teori God of Carnage terbukti di depan matanya: semua orang jadi ganas. Tetapi kemenangan itu tidak membawa kepuasan; dia tetap berakhir kosong.
 
 ---
@@ -277,12 +243,12 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 | **Annette** | Pasangan "bersatu" melawan keluarga Novak | Retak: muntah, menjerit tentang telefon | Annette musnahkan telefon dan minta maaf; Alan tidak mempertahankannya; akhirnya Alan mengutip kelopak tulip yang Annette hancurkan |
 
 10. **Catatan tambahan / interpretasi pelakon:**
-    - **Watak tunjang dan antagonis (Egri):** Veronica ialah watak tunjang, kerana dia mendesak pengakuan moral dan tidak akan berhenti. Alan antagonis utamanya, iaitu kuasa yang menolak pengakuan itu.
-    - **Kesatuan pertentangan (Egri):** Alan tidak boleh keluar kerana tiga ikatan:
+    - **Peranan dalam konflik:** Veronica yang mendesak pengakuan moral dan tidak akan berhenti. Alan ialah penentang utamanya, iaitu kuasa yang menolak pengakuan itu.
+    - **Kenapa Alan tidak boleh keluar:** dia terikat oleh tiga perkara:
       1. Kecederaan Henry: Benjamin bersalah.
       2. Annette, yang memaksa dia hadir.
       3. Egonya sendiri, kerana dia tidak boleh membiarkan Veronica menang hujah.
-    - **Orkestrasi (Egri):**
+    - **Perbandingan dengan watak lain:**
 
 | | Alan | Veronica | Michael | Annette |
 |---|---|---|---|---|
@@ -334,10 +300,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 
 9. **Objektif utama watak (Super Objective):**
    "Aku mahu kekal berkuasa dan tidak tersentuh, di dunia di mana hanya yang kuat menang."
-   - **Premis Egri:** Kepercayaan bahawa kekuatan mengatasi moral membawa kepada kekosongan diri.
-   - **Watak:** lelaki yang percaya hanya pada kuasa.
-   - **Konflik:** dipaksa berdepan dengan tuntutan moral dan isteri yang hilang sabar.
-   - **Kesudahan:** teorinya terbukti, tetapi kuasanya dirampas dan dia tinggal kosong.
 
 10. **Objektif dalam setiap adegan (Scene Objective):**
 
@@ -395,16 +357,8 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
    - **PERTENGAHAN:** Defensif bila dicabar ("sengaja", "kaki mengadu"). Kemudian terhibur dan "hidup" bila huru-hara bermula: minum rum, ketawa, bersekutu dengan Michael, berhujah dengan yakin.
    - **PENGAKHIRAN:** Meletup bila telefon dimusnahkan, kemudian hancur dan kalah. Sinismenya masih keluar sebagai refleks (Jane Fonda, "babi yang tersangkut"), tetapi tanpa tenaga. Gambaran akhir: senyap, mengutip kelopak tulip.
 
-**Catatan Egri:**
-- **Pertumbuhan kutub ke kutub:**
-  - **Kutub A (awal):** berkuasa, terkawal, tidak tersentuh, sentiasa "di luar" bilik.
-  - **Kutub B (akhir):** tidak berdaya, kosong, terperangkap di dalam bilik, tanpa telefon.
-- **Jenis konflik:**
-  - **Statik:** awal cerita, dia mengelak melalui telefon dan "Baguslah kalau diorang bercakap".
-  - **Bayangan awal:** setiap kali telefon berbunyi, Annette semakin geram ("Cukup dengan telefon tu!", "daging cincang"). Ini membayangkan telefon akan dimusnahkan.
-  - **Meningkat:** "bersenjatakan" → "sengaja" → "kaki mengadu" → God of Carnage → telefon dalam pasu.
-  - **Melompat** (Egri mahu ini dielakkan): ledakan telefon *nampak* seperti lompatan, tetapi sebenarnya dibina oleh bayangan awal. Pelakon mesti mainkan transisinya.
-- **Transisi utama:**
+**Catatan tambahan:**
+- **Titik perubahan emosi utama:**
   1. Bosan → defensif: perkataan "sengaja".
   2. Defensif → terhibur: Veronica memukul Michael ("aku dah mula sukakan kau!").
   3. Terhibur → meletup: telefon dalam pasu.
@@ -469,7 +423,7 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 
 **Physical Habits:** Memegang dan menyemak telefon; bergerak ke tepi bila telefon berbunyi; mengangkat jari; makan sambil bercakap; senyum sinis; mengisi semula gelas rum sendiri.
 
-**Catatan Egri (fisiologi):** Penampilan yang sempurna menjadi sebahagian daripada perisai Alan. Bila perisai itu runtuh (muntah, telefon musnah), tubuhnya runtuh sekali. Fisiologi dan psikologinya bergerak serentak.
+**Catatan tambahan:** Penampilan yang sempurna menjadi sebahagian daripada perisai Alan. Bila perisai itu runtuh (muntah, telefon musnah), tubuhnya runtuh sekali. Keadaan fizikal dan emosinya bergerak serentak.
 
 ---
 
@@ -557,13 +511,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
 7. **Interpretasi keseluruhan watak saya:**
    Alan Raleigh ialah lelaki yang sudah lama menerima bahawa dunia dikuasai "God of Carnage". Dia berlindung di sebalik kerja, bahasa undang-undang dan sinisme. Dia mempertahankan anaknya dengan cara yang sama dia mempertahankan ubat yang berbahaya: tolak perkataan yang menuduh, tawar bayaran, jangan mengaku. Sepanjang petang itu, semua orang lain jatuh ke dalam keganasan yang dia ramalkan. Tetapi bila perisainya (telefon) dirampas, dia sendiri tertanggal, kosong dan tidak berdaya. Kemenangan teorinya ialah kekalahan peribadinya.
 
-   Mengikut Egri, setiap tindakan Alan mesti boleh dijejak kembali kepada tiga dimensinya:
-   - **Fisiologi:** letih, lapar, terurus.
-   - **Sosiologi:** peguam korporat, didikan maskulin, bercerai.
-   - **Psikologi:** sinis, obses dengan kawalan, tidak mampu mengaku salah.
-
-   Premisnya, "kepercayaan bahawa kekuatan mengatasi moral membawa kepada kekosongan diri", terbukti melalui pertumbuhannya dari kutub berkuasa kepada kutub kosong.
-
 **Analisis subteks dialog penting:**
 
 | Dialog | Maksud sebenar (subteks) |
@@ -598,7 +545,6 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
    - Memerhati cara peguam, ahli korporat atau orang berjawatan tinggi bercakap di telefon: tempo, istilah dan nada arahan.
    - Membaca tentang skandal syarikat farmaseutikal dan strategi "nafi dan serang" dalam perhubungan awam.
    - Memerhati postur dan cara duduk lelaki berusia 40-an yang berkedudukan tinggi.
-   - Mengkaji teori Lajos Egri dengan lebih mendalam, terutama tentang pertumbuhan watak, transisi dan orkestrasi.
    - Membaca sedikit tentang konflik di Congo dan peranan Mahkamah Jenayah Antarabangsa, supaya ucapan Alan tentang kanak-kanak askar ada asas yang nyata.
 
 5. **Apakah perkara yang saya mahu uji semasa latihan?**
@@ -611,4 +557,4 @@ Alan **tahu** kedua-duanya merosakkan, tetapi dia tidak akan mengakuinya di depa
    - Jarak fizikal saya dengan Annette: bila saya mendekatinya, dan bila saya menjauh.
 
 6. **Kesimpulan kajian watak:**
-   Melalui kajian ini, saya dapati Alan Raleigh ialah watak yang dibina atas kawalan, kuasa dan sinisme. Mengikut teori Lajos Egri, fisiologi, sosiologi dan psikologinya saling berkait. Kerjaya sebagai peguam korporat dan didikan maskulin menjadikan dia lelaki yang tidak mampu mengaku salah atau menunjukkan emosi. Cara dia mempertahankan Benjamin sama dengan cara dia mempertahankan Antril: nafikan, tawar bayaran, jangan mengaku. Sepanjang cerita, Alan bergerak dari satu kutub ke kutub yang lain: daripada lelaki yang berkuasa dan terkawal kepada lelaki yang kosong dan tidak berdaya bila telefonnya dimusnahkan. Cabaran utama saya ialah mengekalkan ketenangan dan kuasa Alan tanpa menjadikannya penjahat semata-mata, dan menunjukkan kekosongan di sebaliknya secara jujur kepada penonton.
+   Melalui kajian ini, saya dapati Alan Raleigh ialah watak yang dibina atas kawalan, kuasa dan sinisme. Kerjaya sebagai peguam korporat dan didikan maskulin menjadikan dia lelaki yang tidak mampu mengaku salah atau menunjukkan emosi. Cara dia mempertahankan Benjamin sama dengan cara dia mempertahankan Antril: nafikan, tawar bayaran, jangan mengaku. Sepanjang cerita, Alan berubah daripada lelaki yang berkuasa dan terkawal kepada lelaki yang kosong dan tidak berdaya bila telefonnya dimusnahkan. Cabaran utama saya ialah mengekalkan ketenangan dan kuasa Alan tanpa menjadikannya penjahat semata-mata, dan menunjukkan kekosongan di sebaliknya secara jujur kepada penonton.
